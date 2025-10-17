@@ -1,2 +1,2 @@
 # MiPrimerRepo
-Este es mi primer repositorio de prueba Introducción a la Programación
+Este es mi primer repositorio de prueba de Introducción a la Programación
